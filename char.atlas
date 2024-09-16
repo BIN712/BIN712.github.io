@@ -1,0 +1,67 @@
+char.png
+size:1212,1212
+filter:Linear,Linear
+pma:true
+1
+bounds:948,819,174,174
+offsets:207,259,582,582
+2
+bounds:855,2,309,318
+offsets:192,127,582,582
+rotate:90
+3
+bounds:543,819,391,403
+offsets:141,85,582,582
+rotate:90
+4
+bounds:2,133,504,523
+offsets:78,15,582,582
+rotate:90
+5
+bounds:2,639,539,571
+offsets:22,0,582,582
+body
+bounds:543,644,173,404
+offsets:4,3,182,407
+rotate:90
+collar
+bounds:1124,891,71,102
+offsets:2,2,74,108
+head
+bounds:948,995,215,200
+offsets:3,3,221,208
+rotate:90
+left arm 2
+bounds:527,75,107,308
+offsets:6,23,122,332
+rotate:90
+left arm b
+bounds:527,184,127,326
+offsets:2,0,132,326
+rotate:90
+left leg
+bounds:1048,313,134,504
+offsets:11,7,148,515
+left shoulder
+bounds:889,322,189,122
+offsets:3,17,193,140
+rotate:90
+right arm
+bounds:527,385,126,360
+offsets:3,1,130,362
+rotate:90
+right arm 2
+bounds:2,5,126,344
+offsets:3,17,130,362
+rotate:90
+right leg
+bounds:527,513,124,519
+offsets:6,3,135,522
+rotate:90
+right shoulder
+bounds:348,18,175,113
+offsets:2,4,181,122
+right shoulder b
+bounds:1124,840,49,53
+offsets:2,1,53,55
+rotate:90
