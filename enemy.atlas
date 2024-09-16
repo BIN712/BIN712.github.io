@@ -1,0 +1,44 @@
+enemy.png
+size:1177,1177
+filter:Linear,Linear
+pma:true
+1
+bounds:508,14,174,174
+offsets:207,259,582,582
+2
+bounds:508,190,309,318
+offsets:192,127,582,582
+3
+bounds:543,772,391,403
+offsets:141,85,582,582
+4
+bounds:2,79,504,523
+offsets:78,15,582,582
+5
+bounds:2,604,539,571
+offsets:22,0,582,582
+body
+bounds:936,772,239,403
+offsets:3,1,254,407
+head
+bounds:999,50,130,135
+offsets:7,5,144,143
+left arm 2
+bounds:684,68,117,313
+offsets:5,17,122,332
+rotate:90
+left leg
+bounds:543,510,133,500
+offsets:12,6,148,515
+rotate:90
+right arm 2
+bounds:1042,194,130,314
+offsets:0,43,130,362
+right leg
+bounds:543,645,125,519
+offsets:8,0,135,522
+rotate:90
+tail
+bounds:819,187,321,221
+offsets:2,6,337,237
+rotate:90
