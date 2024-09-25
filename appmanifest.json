@@ -1,7 +1,7 @@
 {
 	"name": "playable demo",
 	"short_name": "playable demo",
-	"description": "",
+	"description": "playable demo",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
